@@ -1,0 +1,112 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "linkedin": "",
+    "github": "",
+
+    "summary/objective": "",
+
+    "education": [
+        {
+            "degree": "",
+            "school": "",
+            "graduation": ""
+        },
+        {
+            "degree": "",
+            "school": "",
+            "graduation": ""
+        }
+    ],
+
+    "technical_foundations": [ "Python",
+        "Flask/Django",
+        "FastAPI", 
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "HTML/CSS",
+        "SQL",
+        "Full-Stack Development",
+        "Machine Learning",
+        "Data Analysis"],
+
+    "personal_foundations": [ "Problem Solving", 
+        "Critical Thinking",
+        "Collaboration",
+        "Adaptability",
+        "Time Management" ],
+
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [],
+            "reason_for_leaving": ""
+        },
+        {
+            "job_title": "",
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [],
+            "reason_for_leaving": ""
+        },
+        {
+            "job_title": "",
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [],
+            "reason_for_leaving": ""
+        },
+        {
+            "job_title": "",
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [],
+            "reason_for_leaving": ""
+        }
+    ],
+
+    "projects": [
+        {
+            "project_name": "",
+            "description": "",
+            "technologies_used": [],
+            "link": ""
+        },
+        {
+            "project_name": "",
+            "description": "",
+            "technologies_used": [],
+            "link": ""
+        }
+    ],
+
+    "certifications": [
+        {
+            "certification_name": "",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": ""
+        },
+        {
+            "certification_name": "",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": ""
+        },
+        {
+            "certification_name": "",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": ""
+        }
+    ]
+}
